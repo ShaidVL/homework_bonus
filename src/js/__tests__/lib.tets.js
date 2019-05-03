@@ -1,4 +1,4 @@
-import {sales_bonus} from "../lib";
+import {sales_bonus} from "../lib.js";
 
 test('should return 5% bonus', () => {
     const sales = [12000, 8000, 10000, 15000, 2000];
