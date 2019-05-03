@@ -1,1 +1,1 @@
-# Project Bonus [![Build Status](https://travis-ci.org/ShaidVL/homework_bonus.svg?branch=master)](https://travis-ci.org/ShaidVL/homework_bonus)
+# Project Bonus [![Build Status](https://travis-ci.org/ShaidVL/homework_bonus.svg?branch=master)](https://travis-ci.org/ShaidVL/homework_bonus)  [![codecov](https://codecov.io/gh/ShaidVL/homework_bonus/branch/master/graph/badge.svg)](https://codecov.io/gh/ShaidVL/homework_bonus)
